@@ -1,0 +1,17 @@
+{
+  "name": "code-challenges",
+  "version": "1.0.0",
+  "description": "A repository of code challenges",
+  "main": "index.js",
+  "scripts": {
+      "test": "jest --watch --verbose"
+  },
+  "repository": "git@github.com:bradzickafoose/code-challenges.git",
+  "author": "Brad Zickafoose <hello@bradzickafoose.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+      "jest": "^26.0.1",
+      "jest-extended": "^0.11.5"
+  }
+}
